@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luis Guilherme 🖐🏾
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=luisGui-Dev&show_icons=true&theme=radical)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=luisGui-Dev&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisGui-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
